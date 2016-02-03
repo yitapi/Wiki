@@ -2,9 +2,8 @@
 format: Markdown
 category: technique, genome engineering
 ---
-MAGE
-=====
+
 # Introduction
 MAGE (Multiplex Automated Genome Engineering) was developed in the lab of [George Church](), based on an existing technology called [Recombineering](). It relies on phage $\lambda$'s [Red]() system. The name automated comes from the fact that the original paper[^1] used a machine to automate the whole process. However, in real life most people seem to be doing this by hand.
 
-[^1]: [MAGE09]() 
+[^1]: [MAGE09]()
