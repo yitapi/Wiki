@@ -1,0 +1,13 @@
+---
+format: Markdown
+categories: paper transcription_factor
+toc: no
+...
+[Probing the Informational and Regulatory Plasticity of a Transcription Factor DNA–Binding Domain](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002614)
+* notes
+- binding site degeneracy: TFs often have a consensus site w/ highest binding affinity, as well as a number of lower affinity sites differing from the consensus.
+- For bacterial TFs, the size of their regulons (number of targets) constrains how specific it needs to be. (Does not hold for eukaryotic TFs)
+- Uses [MarA](), a monomeric, HTH tF in the AraC family. Two homologs in *E. coli*, Rob & SoxS.
+- MarA binding sequence conservation follows a sine wave of period ~10.6 bp, length of a B-form DNA helical twist. (Seems to be common for many TFs) 
+* synopsis
+They investigated the evolution of one helix interacting with DNA toward regulating a new binding site necessary for growth (an artificial promoter for Tet resistance gene). In the end, they measured the DNA binding preferences of several evolutionary intermediates using [MITOMI](). By this they demonstrated that the evolution of specific TF toward a new specificity follows despecify first - respecify second route.
