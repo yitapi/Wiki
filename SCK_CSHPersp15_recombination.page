@@ -1,6 +1,6 @@
 ---
 format: Markdown
-category: genetic_recombination, review, paper
+categories: genetic_recombination review paper
 toc: no
 ...
 
@@ -11,17 +11,17 @@ toc: no
 ##notes
 * DNA damage can be repaired by multiple systems, homologous recombination being one of them.
 * DNA strand breaks (Both single-stranded gaps SSGs and double stranded breaks DSBs)can occur through
-- chemistry
-- replication on a damaged template
-- collision with transcription machinery
+  - chemistry
+  - replication on a damaged template
+  - collision with transcription machinery
 * Homologous recombination, as a template based repair machinery, has a better chance of reconstituting the right sequence than [nonhomologous end joining](NHEJ)
 * Homologous recombination comprises a collection of potentially parallel and alternative processes due to diversity and size of SSGs and DSBs.
 * Core biochemical steps of HR:
-- Initiation
-- homologous DNA pairing and strand exchange
-- branch migration
-- separation of joined chromosomes
+  - Initiation
+  - homologous DNA pairing and strand exchange
+  - branch migration
+  - separation of joined chromosomes
 * Bacterial pathways for recombinational DNA repair:
-- RecBCD/AddAB: DSBs
-- RecF: SSGs (largely). RecF pathway is nearly universal among bacteria.
+  - RecBCD/AddAB: DSBs
+  - RecF: SSGs (largely). RecF pathway is nearly universal among bacteria.
 * Yeast and Human share many genes. BRCA1/2, not present in yeast, are important to human recombinational repair.
