@@ -6,11 +6,13 @@ categories: kits technique protocols
 
 #Commercial kits
 It seems that the following kit is THE transposon-mutagenesis kit out there. I ccannot find any home brewed kits/plasmid etc. The supply a hyperactive Tn5 transposae, with which the user incubate a piece of recognition sites surrounded DNA. The whole transposome is then electroporated into cells and inserted colonies are then screened out from selective condition.
+
 * [EZ-Tn5 Custom Transposome Construction Kits](http://www.epibio.com/applications/tn5-transposon-mutagenesis/in-vivo-tn5-transposon-mutagenesis/ez-tn5-custom-transposome-construction-kits)
+
     - Epicentre (Danyiel)
     This two kits are supplied with transposase, buffer, stop solution and primers to amplify the transposon from the construction vector. The vector contains MCS where there's no preincluded resistance marker.
     + TNP10622 supplied w/ pMOD-2 vector 
     + TNP10623 supplied w/ pMOD-3 vector, transposon containing pR6K ori, which can be cut out from the target sequence after integration with PvuII, self-ligated and propergated in a [pir+](pir) genotype. I'm not sure how useful this would be for me.
     They also supply the transposase itself, but I couldn't find much info about it.
-    + [EZ-Tn5 Transposase](http://www.epibio.com/enzymes/in-vivo-transposomics-/ez-tn5-transposase?details)
+* [EZ-Tn5 Transposase](http://www.epibio.com/enzymes/in-vivo-transposomics-/ez-tn5-transposase?details)
 
