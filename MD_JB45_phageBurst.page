@@ -1,0 +1,13 @@
+---
+format: Markdown
+categories: paper phage
+toc: no
+...
+#[The burst size distribution in the growth of bacterial viruses](http://jb.asm.org/content/50/2/131.full.pdf)
+This is one of [Delbruck]()'s phage papers. This one measures the distribution of burst size across single bacterial cells. Only a few technical notes are listed.
+
+##notes
+- He diluted the infected bacterial up to 5 CFU/mL, and plated 40-60 50 $\mu L$ infected cultures. Dilution was done within 13-17 min after infection (His phages lyse crazily fast!).
+- The variation he observed is quite large, larger than the variation of cell sizes. He attributed this to his earlier paper on [fluctuations of autocatalytic processes]().
+- Bigger cells tend to produce more phages.
+- The experiment was run at two different MOI's, with similar burst size variation. He refer this phenomenon to his phage interference paper with Luria (Phage Self-interference).
