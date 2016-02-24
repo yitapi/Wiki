@@ -1,0 +1,8 @@
+---
+format: Markdown
+categories: antibiotics antibiotic_peptides
+toc: no
+...
+
+#Microcin C
+Microcin C(McC) is produced by some [strains](E.coli_producing_McC) of E coli. It seems to be one of the most well-studied Trojan horse inhibitor: it is actively taken inside sensitive cells and processed to be a mimic of aminoacyl-adenylate, which is nonhydrolyzable and leads to translation inhibition. McC is a Aspartyl-tRNA synthetase(AspRS) inhibitor, meaning that the processed product of it is nonhydrolyzable aspartyl-adenylate.
