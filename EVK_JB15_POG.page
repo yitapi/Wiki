@@ -1,0 +1,20 @@
+---
+format: Markdown
+categories: phage bioinformatics database
+toc: no
+...
+#[Orthologous Gene Clusters and Taxon Signature Genes for Viruses of
+Prokaryotes](http://jb.asm.org/content/195/5/941.full.pdf+html)
+
+##notes
+1. Construction of dataset:
+    * Query NCBI Nucleotide database: Viruses[Organism] NOT cellular organisms [ORGN] NOT srcdb_refseq[PROP] AND vhost bacteria[filter] AND "complete genome"[All Fields]
+    * Manual curation and [single-linkage clustering]() to join essentially the same phages.
+    * Only genomes whose species were not present in RefSeq were included to avoid redundancy.
+    * 88% are dsDNA phages, 10% ssDNA phages, <2% RNA phages.
+
+2. Multiple POGs can be proteins of similar functions. 13 POGs are annotated as terminase large subunits, while 30 POGs are annotated as small terminases. These suggest that the method the authors used tend to oversplit POGs, as well as the extreme sequence diversity of these genes.
+
+3. Transfer of viral genes to bacteria is very rare.
+4. Taxon specific genes can be identified.
+5. [POGs link](ftp.ncbi.nlm.nih.gov/pub/kristensen/thousandgenomespogs/)

@@ -1,0 +1,13 @@
+---
+format: Markdown
+categories: paper phage bioinformatics
+toc: no
+...
+#[Viral dark matter and virus–host interactions resolved from publicly available microbial genomes](http://lens.elifesciences.org/08490/index.html?_ga=1.7952818.1097153616.1458202766)
+
+##notes
+1. Difficulties in detecting/describing viral signals:
+  a. Plasmid prophages: phages like P1 that exists as a plasmid;
+  b. Phages that grows without killing their hosts;
+  c. Carrier state of phages. 
+2. How often would a large (>30 kb) prophages not correctly assigned as integrated? The authors simulated HiSeq 100 bp reads with NeSSM with different coverages. Results suggested <2.3% prophage-originating contigs would lack identifiable microbial genes.
